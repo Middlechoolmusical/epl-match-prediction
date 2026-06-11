@@ -42,3 +42,31 @@ streamlit run app.py
 2. **Team Form Calculation**: We calculate a 3-game rolling average of goals scored and goals conceded. This captures the offensive and defensive form of each team.
 3. **Training**: We train a Random Forest Classifier using scikit-learn.
 4. **Validation**: We train the model on matches from 2000 to 2025, and test its accuracy on the matches from the current 2025/26 season. This shows us how well the model predicts future matches.
+
+---
+
+## 📸 Screenshots
+
+### Application Interface & Prediction Results
+
+![Application Interface](screenshots/app-interface.jpeg)
+
+### Model Training & Performance
+
+![Model Performance](screenshots/model-performance.png)
+
+---
+
+## 🔮 Future Improvements
+
+- Incorporate additional match statistics and advanced performance metrics.
+- Experiment with Gradient Boosting and XGBoost models.
+- Add feature importance visualizations.
+- Deploy the application publicly using Streamlit Cloud.
+- Improve prediction accuracy through hyperparameter tuning and feature engineering.
+
+---
+
+## 👨‍💻 Author
+
+Aryan   
