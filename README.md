@@ -36,7 +36,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 How it Works Under the Hood
+## 🧠 How it Works
 
 1. **Data Preparation**: We use `matches.csv`, which holds team-by-team match records from 2000 to 2026.
 2. **Team Form Calculation**: We calculate a 3-game rolling average of goals scored and goals conceded. This captures the offensive and defensive form of each team.
