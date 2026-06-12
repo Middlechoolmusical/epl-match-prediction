@@ -10,7 +10,6 @@ This is a simple machine learning project I built to predict the outcomes of Eng
 * **`train.py`**: A python script that cleans the raw data, prepares the features (like 3-game rolling averages for goals, shots, corners, fouls, cards), and trains a Random Forest model.
 * **`app.py`**: The Streamlit user interface where you can pick any Home and Away team to run a prediction.
 * **`requirements.txt`**: A file listing the python packages needed to run the project.
-* **`.gitignore`**: Excludes large files (like model weights) and temp files from being pushed to GitHub.
 
 ---
 
