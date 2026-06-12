@@ -49,7 +49,7 @@ streamlit run app.py
 
 ### Application Interface & Prediction Results
 
-![Application Interface](screenshots/app-interface.jpeg)
+![Application Interface](screenshots/app-interface.png)
 
 ### Model Training & Performance
 
